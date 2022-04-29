@@ -1,0 +1,56 @@
+!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Blank template</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+<div class="topnav" 
+
+ style="font-size:18px; color:#000000; font-family: Georgia, Times New Roman, serif;">
+<center> 
+  <div class="topnav-centered" style="font-size:18px; color:#000000; font-family: Georgia, Times New Roman, serif;">
+
+   <a href="https://roshanrajendra.w3spaces.com/index.html" class="active"> Homepage </a>
+    <a href="https://roshanrajendra.w3spaces.com/clubhistory.html" class="active"> Club History </a>
+    <a href="https://roshanrajendra.w3spaces.com/leauge.html" class="active"> league </a>
+    <a href="https://roshanrajendra.w3spaces.com/aboutme.html" class="active"> Aboutme </a> 
+
+
+</div>
+
+    <body>
+
+        <h1>Arsenal Homepage</h1>
+        
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        
+    </body>
+<div class="container">
+  <img src="https://roshanrajendra.w3spaces.com/Arsenal_wallpaper.jpg" alt="arsenal"style="centre">
+</div> 
+
+<p> The Emirates Stadium is a football stadium in Holloway, London, England, and the home of Arsenal. With a capacity of 60,260 it is the fourth-largest football stadium in England after Wembley Stadium, Old Trafford and Tottenham Hotspur Stadium.
+    </p>
+
+
+
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=t8yC3gWgSls" type="video/mp4">
+ 
+Your browser does not support the video tag.
+</video>
+
+
+
+
+
+
+
+</html>
